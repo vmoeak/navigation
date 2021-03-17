@@ -62,6 +62,7 @@ button {
     margin-bottom: 5px;
     position: relative;
     background-color: #fff;
+    overflow: hidden;
 
 }
 .addItem {
